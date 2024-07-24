@@ -83,14 +83,6 @@ job_scraper/
 * Add more features to the script (e.g. email notifications, job application tracking)
 * Contribute to the script by fixing bugs and improving performance
 
-**Sponsors**
----------
-
-* If you'd like to sponsor this project, please contact me at lupscyber@gmail.com
-* Sponsorship opportunities include:
-	+ Adding your company's job listings to the script
-	+ Customizing the script for your company's specific needs
-	+ Providing funding for further development of the script
 
 **Credit**
 ---------
