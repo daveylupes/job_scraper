@@ -3,58 +3,65 @@ Additional 56 Companies that are HIRING for 100% REMOTE.
 1. [Quest Software](https://careers-quest.icims.com/jobs/search?hashed=-435624227&mobile=false&width=1170&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=120)
 2. [Upstart](https://careers.upstart.com/jobs/search)
 3. [Celigo](https://www.celigo.com/careers/#job-listings) (US & India) 
-4. Cengage Group -https://lnkd.in/gGkT6jRZ
-5. Docker, Inc - https://lnkd.in/gfX5-pQG
-6. hims & hers - https://lnkd.in/gr_SdVdE
-7. UserGems - https://lnkd.in/gXi3mNf6
-8. Abnormal Security - https://lnkd.in/gn5M4VDF
-9. Cash App - https://lnkd.in/gdp8yUm8
-10. LogicGate - https://lnkd.in/gjgX27Bc
-11. Faire - https://lnkd.in/gYRNr9VM
-12. Renaissanc - https://lnkd.in/gesiM_Dw
-13. Rec Room - https://lnkd.in/gErDuTNa
-14. VGS-https://lnkd.in/g7Ajb77F
-15. VAST Data - https://lnkd.in/gMUFt4y9
-16. Sorcero - https://lnkd.in/gpmDTnH7
-17. McGraw Hill - https://lnkd.in/g59pzFf4
-18. Patreon - https://lnkd.in/gzQptMcQ
-19. Beekeeper - https://lnkd.in/gxd7rs7Q mnn
-20. Upwork-https://lnkd.in/gt4HYmd6
-21. DocuSign - https://lnkd.in/ggfUncZf
-22. DealHub.io - https://lnkd.in/gyNED4yp
-23. Census - https://lnkd.in/gAq7PGzc
-24. Intrado - https://lnkd.in/gH3wuNWZ
-25. Cloudflare - https://lnkd.in/g9JPXp2F
-26. Funded.club - https://lnkd.in/gpH4FazA
-27. Workiva - https://lnkd.in/g-FUYYdR 
-28. MissionWired - https://lnkd.in/gMA6AVdG
-29. Workera - https://lnkd.in/g2YzZu-H
-30. Jenius Bank - https://lnkd.in/gxGqHGkH
-31. Goinstacare - https://lnkd.in/d6ZN5FVD
-32. Uplers - https://www.uplers.com
-33. Quantum - https://lnkd.in/d8jFCeuU
-34. Canonical - https://lnkd.in/d9mf5Rr3
-35. Kemecon - http://kemecon.com
-36. Gitlab - https://lnkd.in/d2eGyKRv
-37. DigitalOcean - https://lnkd.in/dYgDZ-WF
-38. Atlassian - https://lnkd.in/dp-SFzfT
-39. AngelOne - https://lnkd.in/dk3NwDn6
-40. Shopify - https://lnkd.in/d9zpGKTy
-41. Appcues - https://lnkd.in/dp2Jiupp
-42. Arkency - https://lnkd.in/dBB_wZaR
-43. Automattic - https://lnkd.in/ddSBdusv
-44. Awesomemotive - https://lnkd.in/diZZjb4J
-45. Buffer - https://lnkd.in/d7ihgxkA
-46. Constructor - https://lnkd.in/daBzMdxM
-47. Contra - https://contra.com/careers
-48. Doist - https://doist.com/careers/
-49. DuckDuckGo - https://lnkd.in/d_Kv9dM6
-50. Bold-https://lnkd.in/dZQ8dQnq
-51. Akamai Technologies - https://lnkd.in/dpTN5nPT
-52. Cloudbeds - https://lnkd.in/dg3gC5v6
-53. Mentorsity - https://lnkd.in/d8YyGHNH
-54. Expert Thinking - https://lnkd.in/dz_4HFUi
-55. iVisa - https://ivisa.breezy.hr/
-56. Affordmate - http://www.affordmate.com
-57. Xapobank - http://www.xapobank.com
-58. Symetra - http://www.symetra.com
+4. [Cengage Group](https://cengage.wd5.myworkdayjobs.com/CengageNorthAmericaCareers)
+5. [Docker, Inc](https://www.docker.com/career-openings/)
+6. [hims & hers](https://boards.greenhouse.io/himshers)
+7. [UserGems](https://boards.greenhouse.io/userinterviews)
+8. [Abnormal Security](https://careers.abnormalsecurity.com/open-roles)
+9. [Cash App](https://cash.app/careers?location=remote)
+10. [LogicGate](https://www.logicgate.com/about-us/join-the-team/#positions)
+11. [Faire](https://www.faire.com/careers/openings)
+12. [Renaissanc](https://careers.smartrecruiters.com/Renaissance?search=remote)
+13. [Rec Room](https://recroom.com/careers#openings)
+14. [VGS](https://www.verygoodsecurity.com/careers)
+15. [VAST Data](https://www.vastdata.com/careers)
+16. [Sorcero](https://www.sorcero.com/company/careers#openingsID)
+17. [McGraw Hill](https://careers.mheducation.com/jobs)
+18. [Patreon](https://jobs.ashbyhq.com/patreon)
+19. [Beekeeper](https://www.beekeeper.io/careers/jobs/)
+20. [Upwork](https://www.upwork.com/careers/jobs/explore)
+21. [DocuSign](https://careers.docusign.com/jobs)
+22. [DealHub.io](https://www.comeet.com/jobs/dealhub/86.005)
+23. [Census](https://www.getcensus.com/careers)
+24. [Intrado](https://intrado.jobs.net/en-US/search?keywords=&location=)
+25. [Cloudflare](https://www.cloudflare.com/careers/jobs/)
+26. [Funded.club](https://funded.club/startupjobs)
+27. [Workiva](https://workiva.wd1.myworkdayjobs.com/careers)
+28. [MissionWired](https://jobs.lever.co/MissionWired?)
+29. [Workera](https://job-boards.greenhouse.io/workera)
+30. [Jenius Bank](https://careers.smbcgroup.com/smbc_manubank/go/Jenius_bank/9522200/?utm_source=careersite&utm_campaign=jenius)
+31. [Goinstacare](https://www.goinstacare.com/become-a-caregiver)
+32. [Uplers](https://www.uplers.com)
+33. [Quantum](https://recruiting2.ultipro.com/QUA1014QUAM/JobBoard/ca0ab154-0d7f-47e3-af84-cd9bd79768dc/?q=&o=postedDateDesc&w=&wc=&we=&wpst=)
+34. [Canonical](https://canonical.com/careers/all)
+35. [Kemecon](http://kemecon.com)
+36. [Gitlab](https://about.gitlab.com/jobs/all-jobs/)
+37. [DigitalOcean](https://www.digitalocean.com/careers#open-roles)
+38. [Atlassian](https://www.atlassian.com/company/careers/all-jobs?team=&location=&search=)
+39. [AngelOne](https://www.angelone.in/careers)
+40. [Shopify](https://www.shopify.com/careers)
+41. [Appcues](https://www.appcues.com/company#work)
+42. [Arkency](https://arkency.com/join-our-team/)
+43. [Automattic](https://automattic.com/work-with-us/)
+44. [Awesomemotive](https://awesomemotive.com/careers/#positions)
+45. [Buffer](https://buffer.com/journey#open-roles)
+46. [Constructor](https://constructor.com/about/careers)
+47. [Contra](https://contra.com/careers)
+48. [Doist](https://doist.com/careers/)
+49. [DuckDuckGo](https://duckduckgo.com/hiring)
+50. [Bold](https://www.bold.com/bold-jobs/)
+51. [Akamai Technologies](https://akamaicareers.inflightcloud.com/search?searchable=%5B%5D&section=aka_ext)
+52. [Cloudbeds](https://www.cloudbeds.com/careers/)
+53. [Mentorsity](https://www.mentorsity.com/careers)
+54. [Expert Thinking](https://expert-thinking.co.uk/current-vacancies/)
+55. [iVisa](https://ivisa.breezy.hr/)
+56. [Affordmate](http://www.affordmate.com)
+57. [Xapobank](https://www.xapobank.com/en/careers)
+58. [Symetra](https://symetra.eightfold.ai/careers)
+59. [PayFast](https://payfast.io/careers/)
+
+# Google Dork
+This is a google Dork to specify the exact geographical jobs
+```bash
+(intitle:remote OR intitle:telecommute OR intitle:work from home) (Africa OR EMEA OR "Middle East" OR "North Africa" OR "Sub-Saharan Africa" OR "West Africa" OR "East Africa" OR "South Africa" OR "Nigeria" OR "Egypt" OR "Morocco" OR "Kenya" OR "Ghana") (job OR jobs OR career OR careers OR employment OR hiring)
+```

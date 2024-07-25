@@ -82,8 +82,8 @@ job_scraper/
 * Improve the script to handle different types of job listings (e.g. freelance, internship)
 * Add more features to the script (e.g. email notifications, job application tracking)
 * Contribute to the script by fixing bugs and improving performance
-
+git a
 
 **Credit**
 ---------
-* This tool credits [Joanne MokJoanne Mok](https://www.linkedin.com/posts/joanne-mok-832b78175_additional-56-companies-that-are-hiring-for-activity-7219680376397385728-h2YI?utm_source=share&utm_medium=member_desktop) for curating the list of jobs that I have included in `jobs.md`
+* This tool credits [Joanne Mok](https://www.linkedin.com/posts/joanne-mok-832b78175_additional-56-companies-that-are-hiring-for-activity-7219680376397385728-h2YI?utm_source=share&utm_medium=member_desktop) for curating the list of jobs that I have included in `jobs.md`
