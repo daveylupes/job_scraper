@@ -1,2 +1,5 @@
 job_scraper.db
 myenv/
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
