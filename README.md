@@ -7,6 +7,7 @@ Searching for a job is tedious. Going through websites each and every day to sea
 ```java
 job_scraper/
 ├── main.py
+├── job_parsers.py
 ├── requirements.txt
 ├── config.yaml
 ```
@@ -17,13 +18,13 @@ job_scraper/
 ### Windows
 
 1. Install the required libraries by running `pip install -r requirements.txt`
-2. Run the script by executing `python main.py`
+2. Run the script by executing `python job_scraper.py`
 3. Follow the prompts to set up the script
 
 ### Linux/Mac
 
 1. Install the required libraries by running `pip3 install -r requirements.txt`
-2. Run the script by executing `python3 main.py`
+2. Run the script by executing `python3 job_scraper.py`
 3. Follow the prompts to set up the script
 
 **Setup**
@@ -31,9 +32,9 @@ job_scraper/
 
 1. Edit the `config.yaml` file to specify the websites and job titles you want to search for. Here is an example of how the `config.yaml` file should look:
    ```yaml
-   job_title: "Lead"
+   job_title: "Engineer"
    websites:
-     - "https://boards.greenhouse.io/himshers"
+     - https://careers.upstart.com/jobs/search
      # Add more websites here
    ```
 
@@ -60,7 +61,7 @@ job_scraper/
 1. **Define Your Job Title Search Keywords:**
    - In the `config.yaml` file, specify the job titles you're interested in. For example:
      ```yaml
-     job_title: "Software Engineer"
+     job_title: "Engineer"
      ```
 
 2. **Add Websites to Scrape:**
@@ -74,6 +75,18 @@ job_scraper/
 
 3. **Run the Script:**
    - Follow the instructions under the **Usage** section to run the script and follow the prompts to set it up.
+
+# Troubleshooting
+1. **No Notifications:**
+  * Ensure that your system supports desktop notifications and that the plyer library is correctly installed and configured.
+2. **Network Errors:**
+  * Check your internet connection and ensure the URLs in config.yaml are accessible.
+3. **HTML Structure Changes:** 
+  * If the script fails to find job listings, the HTML structure of the target websites may have changed. Update the parsing logic in job_parsers.py to match the new structure.
+4. **Missing Dependencies:**
+  * Ensure all dependencies are installed by running pip install -r requirements.txt.
+5. **Script Crashes:**
+  * Check the logs for error messages and stack traces to identify the issue. Ensure that the config.yaml file is correctly formatted.
 
 **Growth and Contribution**
 -------------------------
