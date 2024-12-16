@@ -1,4 +1,4 @@
-requests
-beautifulsoup4
-plyer
-pyyaml
+requests==2.31.0
+beautifulsoup4==4.12.2
+plyer==2.1.0
+pyyaml==6.0
