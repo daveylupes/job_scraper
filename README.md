@@ -6,7 +6,7 @@ Searching for a job is tedious. Going through websites each and every day to sea
 ## Project Structure
 ```java
 job_scraper/
-├── main.py
+├── job_sraper.py
 ├── job_parsers.py
 ├── requirements.txt
 ├── config.yaml
